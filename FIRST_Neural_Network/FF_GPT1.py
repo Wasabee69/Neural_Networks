@@ -128,7 +128,7 @@ class Block(nn.Module):
         return x
 
 
-class GPT2(nn.Module):
+class GPT1(nn.Module):
     def __init__(self):
         super().__init__()
         self.relation_table = nn.Embedding(vocab_size, n_embd)
@@ -178,7 +178,7 @@ class GPT2(nn.Module):
         return generated
     
 
-model = GPT2()
+model = GPT1()
 chatbot = model.to(device)
 
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
@@ -203,6 +203,7 @@ context = torch.zeros((batch_size, 1), dtype=torch.long, device=device)
 ## Generate some text of characters
 # We just return the first batch (batch[0])... we could do some evaluation and decide to choose specific ones if we want to
 print("\n",decode(chatbot.generate(context, generation_length = 3000)[0].tolist()))
+
 
 
         
