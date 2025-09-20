@@ -1,0 +1,135 @@
+
+AFTER 80 000 iterations of training with a validation loss of 0.2428
+
+USING:
+batch_size = 8
+context_length = 256
+training_cycles = 80000
+loss_iterations = 500
+learning_rate = 4e-3
+n_embd = 144
+n_heads = 6
+no_layers = 6
+dropout = 0.1
+
+OUTPUT:
+Beyond alter's king.
+
+GLOUCESTER:
+Come then, thus was born to do it, and,
+You should have made with you; if you look'd passad!
+He proclaiment an hundred shook drakes daughter;
+I mean to and bid him plant; why make him and Avens
+That undergo before the measure's burning,
+In man humanly visitation and drunk.
+
+HENRY BOLINGBROKE:
+Brother, I thought my most friend,
+Give my boy. Barth, as I fled, I swear,
+Why rather you play the boared to current,
+Or, if you will accusation serve or yourself,
+Let us fetch you or to wealth are firm'd,
+And from the end toad of a moast brook such hath,
+As only to obedient;
+As you wooer the time of your own kiss,
+Great Albion hy great, Ducheon again,
+Or disgrace hath throub'd our death, and my children
+With air heirs o' the, his advitae, and:
+And, be married, that much I may glad this full of will I.
+
+First Murderer:
+Make haste, my lord, thou art tender for me.
+
+BUSHY:
+You can?
+
+ROMEO:
+A marry, but my army mouth!
+
+BENVOLIO:
+A word, a thing extreme of your coming,
+It should be so his absence; he can lives
+And will a cudration.
+
+MERCUTIO:
+Mark you command?
+
+MERCUTIO:
+Not a word ink, knowing his victory!
+This is this noble of recapt: my unbey,
+And bear the town of amended or two And in a wife.
+What sirs here and my man is commanding
+how were to break gentle; all the
+young pity of it. I have safedled, must by: which
+is a hand famouse.
+
+CORIOLANUS:
+It is a rude and truth.
+
+COMINIUS:
+I tell thee, if it were so this humour would heads.
+
+VOLUMNIA:
+Honourable Montague,
+Thou murred noble father; but the respectable of the
+vost? Prithee thee, to the
+issue:
+if thou art honest and not exeplent dictment,
+but that must be counterment. He requite the thought
+to sufferfly time, again to an end.
+How hand is the seat of love?
+
+ANGELO:
+Still is not the rest?
+Forgive; and when foe ever weep out, keep our messance
+Or and you who losed for fee. Come along luck
+Attend you in feasts, when he would never be too
+The forest and hours.
+
+ANGELO:
+Look as if he he did urge through.
+
+DUKE VINCENTIO:
+But deceant what wilt thou speak, canst thou not have
+Been to party him, I have been constaid
+By thoughopy marriage.
+
+MENENIUS:
+Well, no more than 'First?
+
+MARCIUS:
+How pretently too?
+
+Messenger.
+
+Provost:
+Of your dear weeping,
+How doth her for here looks in a month business?
+
+First Murderer:
+Have I aid?
+
+Second Murderer:
+'Tis suspicion:' he's another
+Without her; the dustred reason with colour
+thanks. Is it understanders, say it is ten this,
+And so death too seek home, that speed so fifter-belays
+Pardon of his up and tedious dooms,
+And the triumph is panting veins to death.
+3 KING HENRY VI
+
+WARWICK:
+Men, brother Barnardine, and the rest, at last
+Gaugh in common execution.
+
+PRINCE:
+And then, our knees come to the court.
+
+MONTAGUE:
+Yet first, if my life, my lords, tribune mark my peace
+To see you to't, we thought it off.
+
+RICHARD:
+Were it for against her tears; but she
+Till Warwick bids me kill this foul restrolk o'?
+Which was I? Was't said I would be so:
