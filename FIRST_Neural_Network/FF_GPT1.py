@@ -5,7 +5,7 @@ from math import inf as inf
 
 batch_size = 8 # Number of batches
 context_length = 124 # Window of influence for prediction of next token. 
-training_cycles = 10000 # Iterations of training
+training_cycles = 12000 # Iterations of training
 loss_iterations = 500 # Number of iterations to determine calculated average cross_entropy loss
 learning_rate = 4e-3
 
@@ -207,3 +207,4 @@ print("\n",decode(chatbot.generate(context, generation_length = 3000)[0].tolist(
 
 
         
+
